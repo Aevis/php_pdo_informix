@@ -1,5 +1,5 @@
 # php_pdo_informix
-:point_right: [Looking for a new maintainer](https://github.com/flachglasschweiz/php_pdo_informix/issues/7)
+:point_right: This repository is no longer maintained
 
 Precompiled PHP PECL extension php_pdo_informix for Windows.
 
